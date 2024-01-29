@@ -14,7 +14,7 @@ Welcome to SimpleRecyclerApp, a beginner-friendly Android app that demonstrates 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/SimpleRecyclerApp.git
+   git clone https://github.com/sichilongom/RecyclerView.git
    ```
 
 2. **Open in Android Studio:**
