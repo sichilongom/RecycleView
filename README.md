@@ -1,4 +1,4 @@
-# SimpleRecyclerApp Readme
+# RecyclerView App Readme
 
 ## Overview
 
@@ -31,16 +31,16 @@ Welcome to SimpleRecyclerApp, a beginner-friendly Android app that demonstrates 
 ### 1. RecyclerView Setup
 
 - The RecyclerView is defined in the `activity_main.xml` layout file.
-- Adapter and ViewHolder classes (`SimpleAdapter` and `SimpleViewHolder`) are created to handle data binding.
+- Adapter and ViewHolder classes (`RecycleAdapter` ) are created to handle data binding.
 
 ### 2. Data Model
 
-- A simple data model (`SimpleModel`) is used to represent items in the RecyclerView.
+- A simple data model (`Contact`) is used to represent items in the RecyclerView.
 
 ### 3. Data Population
 
-- Data is populated in the `MainActivity` using a list of `SimpleModel` objects.
-- The `SimpleAdapter` is responsible for binding the data to the RecyclerView.
+- Data is populated in the `MainActivity` using a list of `contact` objects.
+- The `RecycleAdapter` is responsible for binding the data to the RecyclerView.
 
 ### 4. Item Click Handling
 
@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy exploring and learning from SimpleRecyclerApp! If you have any questions or suggestions, feel free to reach out.
+Enjoy exploring and learning from SimpleRecyclerApp! If you have any questions or suggestions, feel free to reach out. 
